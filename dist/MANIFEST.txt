@@ -1,0 +1,32 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "plugin": "grafana-timestream-datasource",
+  "version": "1.0.0",
+  "files": {
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "README.md": "303276121a61d3f28d4f565badbdda479dfe5a881a74039daf34079031cf487d",
+    "dashboards/alert.json": "ab2a0ed7e317f864f4cd59116326122e589d8113a6bf3098d062c7f2b3cd8ebd",
+    "dashboards/sample.json": "d6a3775ac6995ff451f4602b201acd02d913c04525f5b104deda2684b70b1d75",
+    "gpx_timestream_darwin_amd64": "d1997566fa9b809a7281436feee23877d209c37643485bc233df9758151cff2e",
+    "gpx_timestream_linux_arm64": "301ec7b648fcc65ed46e9ec048ef4a5b97bd9a74dd916cd811bc87df97957943",
+    "module.js": "15b0efebab036a0f6cd79ebd943bdd95347f29988bb4274ae09ea539124c3a77",
+    "module.js.LICENSE.txt": "0d8f66cd4afb566cb5b7e1540c68f43b939d3eba12ace290f18abc4f4cb53ed0",
+    "module.js.map": "17b383c99b5e28564e5917557187b1d079884df92686d36b0e5949b51d66fab4",
+    "plugin.json": "94cc987ffbe66837f7bfe58bc5bc489aaa5d71402dc58ecae0755cb8d4b0ed57"
+  },
+  "time": 1601060348208,
+  "keyId": "7e4d0c6a708866e7"
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
+
+wqEEARMKAAYFAl9uPfwACgkQfk0ManCIZudmVgIFGl+jonDaNkQRcuYCtoim
+qIX1bBKG6ko1ibqFIN1hd6N2+UrcRKdbbVnK8lNNY2iV5ghuhOIHwHMfmZno
+fUBpm0UCCQGzvXZqPs96wEEZQWc7AkABEF8ig4oE5CQsoxA7L7lTThZ5Cmtn
+HNzYg7kn5+QaflU7//cOYs0bwgxOuqGG3SsIZg==
+=bE4g
+-----END PGP SIGNATURE-----
